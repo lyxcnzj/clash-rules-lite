@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-KEYWORD,github
+  - DOMAIN-KEYWORD,github
   - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-SUFFIX,onedrive.live.com
   - DOMAIN-SUFFIX,githubusercontent.com
@@ -229,6 +230,7 @@ payload:
   - DOMAIN-SUFFIX,ytimg.com
   - DOMAIN,youtubei.googleapis.com
   - DOMAIN,yt3.ggpht.com
+  - DOMAIN,keeflys.com
   - '91.105.192.0/23'
   - '91.108.4.0/22'
   - '91.108.8.0/21'
