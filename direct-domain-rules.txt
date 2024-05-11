@@ -1,6 +1,7 @@
 dynv6.net
 *.qsnas.dynv6.net
 kp.m-team.cc
+api.m-team.io
 hdsky.me
 ptchdbits.co
 springsunday.net
