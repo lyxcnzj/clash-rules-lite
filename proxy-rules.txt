@@ -172,6 +172,9 @@ payload:
   - DOMAIN-SUFFIX,netflixdnstest7.com
   - DOMAIN-SUFFIX,netflixdnstest8.com
   - DOMAIN-SUFFIX,netflixdnstest9.com
+  - DOMAIN-SUFFIX,keeflys.com
+  - DOMAIN-SUFFIX,u2.dmhy.org
+  - DOMAIN-SUFFIX,star-space.net
   - DOMAIN-KEYWORD,dualstack.apiproxy-
   - DOMAIN-KEYWORD,dualstack.ichnaea-web-
   - IP-CIDR,23.246.0.0/18,no-resolve
