@@ -1,4 +1,5 @@
 DOMAIN,qsnas.dynv6.net
+DOMAIN,music.mefun.org
 DOMAIN-SUFFIX,qsnas.dynv6.net
 DOMAIN-SUFFIX,*.qsnas.dynv6.net
 DOMAIN-SUFFIX,kp.m-team.cc
@@ -16,6 +17,7 @@ DOMAIN-SUFFIX,www.hddolby.com
 DOMAIN-SUFFIX,www.pttime.org
 DOMAIN-SUFFIX,dicmusic.com
 DOMAIN-SUFFIX,pt.btschool.club
+DOMAIN-SUFFIX,mefun.org
 DOMAIN-SUFFIX,www.agsvpt.com
- DOMAIN-SUFFIX,pt.soulvoice.club
- DOMAIN-SUFFIX,ptvicomo.net
+DOMAIN-SUFFIX,pt.soulvoice.club
+DOMAIN-SUFFIX,ptvicomo.net
