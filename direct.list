@@ -1,4 +1,15 @@
-DOMAIN,qsnas.dynv6.net
+DOMIAN,alt1-mtalk.google.com,
+DOMIAN,alt2-mtalk.google.com,
+DOMIAN,alt3-mtalk.google.com,
+DOMIAN,alt4-mtalk.google.com,
+DOMIAN,alt5-mtalk.google.com,
+DOMIAN,alt6-mtalk.google.com,
+DOMIAN,alt7-mtalk.google.com,
+DOMIAN,alt8-mtalk.google.com,
+DOMIAN,mtalk-dev.google.com,
+DOMIAN,mtalk-staging.google.com,
+DOMIAN,mtalk-staging.google.com,
+DOMIAN,mtalk4.google.com,
 DOMAIN,music.mefun.org
 DOMIAN,chat.rawchat.cc
 DOMAIN-SUFFIX,qsnas.dynv6.net
@@ -22,3 +33,4 @@ DOMAIN-SUFFIX,mefun.org
 DOMAIN-SUFFIX,www.agsvpt.com
 DOMAIN-SUFFIX,pt.soulvoice.club
 DOMAIN-SUFFIX,ptvicomo.net
+DOMAIN-SUFFIX,doliunux.us.kg
