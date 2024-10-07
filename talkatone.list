@@ -5,7 +5,7 @@ DOMAIN-SUFFIX,inmobi.com
 DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,talkatone.com
 DOMAIN-SUFFIX,kochava.com
-DOMAIN-SUFFIX,co.kvaedit.site
+DOMAIN-SUFFIX,kvaedit.site
 # 这个域名最好走代理，我这边直连已超时
 # DOMAIN-SUFFIX,tktn.be
 DOMAIN-SUFFIX,cohere.com
